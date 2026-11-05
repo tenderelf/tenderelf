@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f9ff"/>
+<circle cx="520" cy="90" r="60" fill="#d7ebff"/>
+
+<rect x="210" y="120" width="220" height="250" rx="18" fill="#fff" stroke="#9fc8ec" stroke-width="4"/>
+<path d="M250 175h140M250 210h110M250 245h130M250 280h120" stroke="#c2d5e7" stroke-width="10" stroke-linecap="round"/>
+<rect x="250" y="315" width="90" height="18" rx="9" fill="#4fa3ff"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#111">Premium Copy Paper</text>
+</svg>
